@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+#video-container {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+#progress-bar {
+    width: 80%;
+    max-width: 800px;
+    height: 10px;
+    background-color: #ddd;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#progress-bar-inner {
+    height: 100%;
+    width: 0;
+    background-color: #4caf50;
+    border-radius: 5px;
+}
+
+#percentage {
+    font-size: 18px;
+    font-weight: bold;
+}
