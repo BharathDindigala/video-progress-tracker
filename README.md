@@ -43,8 +43,5 @@ That’s it! The progress will save automatically in your browser.
 - Add user login and authentication
 - Add analytics to see what parts were skipped or rewatched
 
-## 🧑‍🎓 Created By
-
-A student developer working on the SDE Internship assignment.  
-Done with basic HTML, CSS, and JavaScript (no frameworks).
+ 
 
